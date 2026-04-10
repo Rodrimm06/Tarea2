@@ -20,6 +20,7 @@
 .menu li{
     list-style-type: none;
     margin: 20px;
+
     display: inline;
 }
 
